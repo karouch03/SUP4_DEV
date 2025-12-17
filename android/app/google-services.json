@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "605509919090",
+    "project_id": "sup4-dev-dc494",
+    "storage_bucket": "sup4-dev-dc494.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605509919090:android:76c00d812534bb02ec3deb",
+        "android_client_info": {
+          "package_name": "com.example.sup4_dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmmw3Yd-VHjWucqxZKEopMDcDCuC3NIt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
